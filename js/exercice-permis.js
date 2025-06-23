@@ -132,3 +132,6 @@ document.addEventListener("DOMContentLoaded", function () {
         return sanitizedInput;
     }
 });
+
+
+// je modifie le code pour ajouter des fonctionnalités  
